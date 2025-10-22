@@ -1,0 +1,20 @@
+{
+  "name": "telegram-node-bot",
+  "version": "1.0.0",
+  "description": "A simple Telegram welcome bot with Node.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
